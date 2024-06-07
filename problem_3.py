@@ -1,3 +1,5 @@
+soma = 0
+
 while True:
       numero = int(input("Digite um número: "))
       soma = soma + numero
